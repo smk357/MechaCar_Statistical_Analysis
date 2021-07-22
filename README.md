@@ -44,8 +44,13 @@ t-test for lot 3:
 
 The t-test results demonstrate (based on mean not equal to 1500 psi at 95% confidence interval) that the data reflects the alternate hypothesis: true mean is not equal to 1500 psi. 
 
+## Study Design: MechaCar vs Competition
 
+We can analyze the Mechacar's performance relative to its competition as follows:
 
-
+- Use safety rating, emissions rating, and cost as test variables (safety and environmental impact relative to cost are important to many consumers)
+- Null hypothesis: cost does not correlate with safety rating and emissions rating
+- Create linear regression model and compute summary statistics
+- Assess if the Mechacar is worth it's cost based on the probability of the null hypothesis being true - a low p-value can help determine if the cost is worth it to consumers if the Mechacar has high safety and and emissions ratings. 
 
 
