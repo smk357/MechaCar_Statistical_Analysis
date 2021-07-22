@@ -24,6 +24,13 @@ The following are summary statistics for the PSI value for all lots and each lot
 
 The overall summary conforms to the manufacturer's guideline of keeping PSI variance below 100 psi. Individually, lot 1 and 2 meet this criteria, however, the PSI variance for lot exceeds the required 100 psi. This suggests that there high variability in the PSI values for lot 3. Probable causes can include various production inefficiencies.
 
+## T-Tests on Suspension Coils
+
+t-test results for all lots:
+
+![image](https://user-images.githubusercontent.com/79061124/126714006-c0d5dc96-c286-4e10-9aee-3e6343d517a8.png)
+
+t-test for lot 1:
 
 
 
