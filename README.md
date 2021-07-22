@@ -32,7 +32,17 @@ t-test results for all lots:
 
 t-test for lot 1:
 
+![image](https://user-images.githubusercontent.com/79061124/126714392-31ccc702-acad-4446-bb61-c35c65c1c57f.png)
 
+t-test for lot 2:
+
+![image](https://user-images.githubusercontent.com/79061124/126714473-31dcaf89-4175-4613-873f-7f2f91284509.png)
+
+t-test for lot 3:
+
+![image](https://user-images.githubusercontent.com/79061124/126714526-2d04997e-f21f-4ac3-96b5-3b2e79db86a5.png)
+
+The t-test results demonstrate (based on mean not equal to 1500 psi at 95% confidence interval) that the data reflects the alternate hypothesis: true mean is not equal to 1500 psi. 
 
 
 
