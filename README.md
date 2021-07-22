@@ -14,6 +14,21 @@ The main metrics of interest are the r-square and p-values. The high multiple r-
 
 The low p-value 5.35e-11 suggests strong correlation of mpg with the other dataset variables (low probability of null hypothesis). 
 
+## Summary Statistics on Suspension Coils
+
+The following are summary statistics for the PSI value for all lots and each lot seperately:
+
+![image](https://user-images.githubusercontent.com/79061124/126712677-11dfb624-1c13-4eb3-bdad-d4c0f4234cba.png)
+
+![image](https://user-images.githubusercontent.com/79061124/126712729-d38dfbbc-fbcc-43a4-807b-f9378c292ccd.png)
+
+The overall summary conforms to the manufacturer's guideline of keeping PSI variance below 100 psi. Individually, lot 1 and 2 meet this criteria, however, the PSI variance for lot exceeds the required 100 psi. This suggests that there high variability in the PSI values for lot 3. Probable causes can include various production inefficiencies.
+
+
+
+
+
+
 
 
 
